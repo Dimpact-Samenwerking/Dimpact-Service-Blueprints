@@ -21,13 +21,13 @@ legal:
   repoOwner: ''
 localisation:
   availableLanguages:
-  - en
+  - nl
   localisationReady: false
 maintenance:
   contacts: []
   contractors: []
   type: none
-name: Dimpact-Service-Blueprints
+name: PSB KapvergunningAanvragen
 nl:
   vng:
     commonground: []
@@ -43,5 +43,5 @@ releaseDate: '2024-01-31'
 roadmap: ''
 softwareType: standalone/web
 softwareVersion: ''
-url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints
+url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/BAR/KapvergunningAanvragen
 usedBy: []
