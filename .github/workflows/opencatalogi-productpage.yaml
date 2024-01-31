@@ -1,0 +1,14 @@
+name: My Productpage Workflow
+
+
+on:
+  push:
+    branches:
+      - feature-oc
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create or Update publiccode.yaml
+        uses: OpenCatalogi/productpage-action@1.0.7
