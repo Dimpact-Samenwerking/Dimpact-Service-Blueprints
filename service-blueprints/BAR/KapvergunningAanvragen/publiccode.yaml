@@ -37,7 +37,9 @@ nl:
     commonground: []
     gemma:
       domein: ["Fysieke leefomgeving"]
-  upl: ["Omgevingsvergunning kap"]    
+  upl: ["Omgevingsvergunning kap"]
+  thema:[]
+  onderwerp:[]
 organisation:
   logo: ''
   name: 'De Bedrijfsvoeringspartner'
