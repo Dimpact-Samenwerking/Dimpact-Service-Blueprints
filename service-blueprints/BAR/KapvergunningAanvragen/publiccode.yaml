@@ -50,5 +50,5 @@ roadmap: ''
 softwareType: proces
 softwareVersion: '1.0'
 url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/BAR/KapvergunningAanvragen
-usedBy: ["https://www.barendrecht.nl","https://www.albrandswaard.nl","https://www.ridderkerk.nl/"]
+usedBy: ["https://www.barendrecht.nl","https://www.albrandswaard.nl","https://www.ridderkerk.nl"]
 downloads: ["titel.pdf","bewerkbaar.doc"]
