@@ -38,8 +38,8 @@ nl:
     gemma:
       domein: ["Fysieke leefomgeving"]
   upl: ["Omgevingsvergunning kap"]
-  thema:[]
-  onderwerp:[]
+  thema: []
+  onderwerp: []
 organisation:
   logo: ''
   name: 'De Bedrijfsvoeringspartner'
