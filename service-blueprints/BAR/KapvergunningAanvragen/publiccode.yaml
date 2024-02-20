@@ -28,7 +28,7 @@ maintenance:
     name: ''
     email: ''
     phone: ''
-    affiliation: 'Dimpact | PO'
+    affiliation: ''
   contractors: []
   type: internal
 name: Kapvergunning Aanvragen
