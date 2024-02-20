@@ -47,7 +47,8 @@ platforms:
 publiccodeYmlVersion: '0.2'
 releaseDate: '2023-01-31'
 roadmap: ''
-softwareType: standalone/web
+softwareType: proces
 softwareVersion: '1.0'
 url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/BAR/KapvergunningAanvragen
 usedBy: ["https://www.barendrecht.nl","https://www.albrandswaard.nl","https://www.ridderkerk.nl/"]
+downloads: ["titel.pdf","bewerbaar.doc"]
