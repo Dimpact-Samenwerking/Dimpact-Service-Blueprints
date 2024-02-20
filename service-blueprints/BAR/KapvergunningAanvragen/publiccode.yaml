@@ -25,7 +25,7 @@ localisation:
   localisationReady: false
 maintenance:
   contacts: 
-    name: 'Martin de bijl'
+    name: ''
     email: ''
     phone: ''
     affiliation: 'Dimpact | PO'
@@ -37,7 +37,7 @@ nl:
     commonground: []
     gemma:
       domein: ["Fysieke leefomgeving"]
-  upl: ["brp-uittreksel"]    
+  upl: ["Omgevingsvergunning kap"]    
 organisation:
   logo: ''
   name: "De Bedrijfsvoeringspartner"
@@ -51,4 +51,4 @@ softwareType: proces
 softwareVersion: '1.0'
 url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/BAR/KapvergunningAanvragen
 usedBy: ["https://www.barendrecht.nl","https://www.albrandswaard.nl","https://www.ridderkerk.nl/"]
-downloads: ["titel.pdf","bewerbaar.doc"]
+downloads: ["titel.pdf","bewerkbaar.doc"]
