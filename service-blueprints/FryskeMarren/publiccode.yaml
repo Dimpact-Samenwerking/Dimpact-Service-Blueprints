@@ -31,19 +31,19 @@ maintenance:
     affiliation: ''
   contractors: []
   type: internal
-name: Kapvergunning Aanvragen
+name: Afschrift Eigen gegevens BRP aanvragen
 nl:
   vng:
     commonground: []
     gemma:
-      domein: ["Fysieke leefomgeving"]
-  upl: ["Omgevingsvergunning kap"]
+      domein: ["Publieksdiensten"]
+  upl: ["brp-uittreksel"]
   thema: []
   onderwerp: []
 organisation:
   logo: ''
-  name: 'De Bedrijfsvoeringspartner'
-  url: 'https://www.debedrijfsvoeringspartner.nl'
+  name: 'De Fryske Marren'
+  url: 'https://www.defryskemarren.nl/'
 platforms:
 - web
 publiccodeYmlVersion: '0.2'
@@ -52,5 +52,5 @@ roadmap: ''
 softwareType: proces
 softwareVersion: '1.0'
 url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/BAR/KapvergunningAanvragen
-usedBy: ["https://www.barendrecht.nl","https://www.albrandswaard.nl","https://www.ridderkerk.nl"]
+usedBy: ["https://www.defryskemarren.nl/"]
 downloads: ["Kapvergunning_aanvragen_BAR-organisatie.pdf"]
