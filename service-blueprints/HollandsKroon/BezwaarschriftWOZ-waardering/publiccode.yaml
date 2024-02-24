@@ -1,0 +1,56 @@
+categories:
+- it-development
+description:
+  nl:
+    apiDocumentation: ''
+    awards: []
+    documentation: ''
+    features: []
+    genericName: Repository voor het beheren van Dimpact Service Blueprints
+    localisedName: ''
+    longDescription: ''
+    screenshots: []
+    shortDescription: ''
+    videos: []
+developmentStatus: stable
+landingURL: ''
+legal:
+  authorsFile: ''
+  license: ''
+  mainCopyrightOwner: ''
+  repoOwner: 'https://www.dimpact.nl/'
+localisation:
+  availableLanguages:
+  - nl
+  localisationReady: false
+maintenance:
+  contacts: 
+    name: ''
+    email: ''
+    phone: ''
+    affiliation: ''
+  contractors: []
+  type: internal
+name: Bezwaarschrift WOZ-waardering indienen
+nl:
+  vng:
+    commonground: []
+    gemma:
+      domein: ["Publieksdiensten"]
+  upl: ["Bezwaar"]
+  thema: []
+  onderwerp: []
+organisation:
+  logo: ''
+  name: 'Gemeente Hollands Kroon'
+  url: 'https://www.hollandskroon.nl/'
+platforms:
+- web
+publiccodeYmlVersion: '0.2'
+releaseDate: '2023-01-31'
+roadmap: ''
+softwareType: proces
+softwareVersion: '1.0'
+url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/HollandsKroon/BezwaarschriftWOZ-waardering
+usedBy: ["https://www.hollandskroon.nl/"]
+downloads: ["Bezwaarschrift_WOZ-waardering_HollandsKroon.pdf"]
