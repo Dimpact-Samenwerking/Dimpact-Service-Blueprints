@@ -1,0 +1,56 @@
+categories:
+- it-development
+description:
+  nl:
+    apiDocumentation: ''
+    awards: []
+    documentation: ''
+    features: []
+    genericName: Repository voor het beheren van Dimpact Service Blueprints
+    localisedName: ''
+    longDescription: ''
+    screenshots: []
+    shortDescription: ''
+    videos: []
+developmentStatus: stable
+landingURL: ''
+legal:
+  authorsFile: ''
+  license: ''
+  mainCopyrightOwner: ''
+  repoOwner: 'https://www.dimpact.nl/'
+localisation:
+  availableLanguages:
+  - nl
+  localisationReady: false
+maintenance:
+  contacts: 
+    name: ''
+    email: ''
+    phone: ''
+    affiliation: ''
+  contractors: []
+  type: internal
+name: Evenementenvergunning Groot aanvragen
+nl:
+  vng:
+    commonground: []
+    gemma:
+      domein: ["Fysieke leefomgeving"]
+  upl: ["Evenementenvergunning"]
+  thema: []
+  onderwerp: []
+organisation:
+  logo: ''
+  name: 'Gemeente Nijmegen'
+  url: 'https://www.nijmegen.nl/'
+platforms:
+- web
+publiccodeYmlVersion: '0.2'
+releaseDate: '2023-01-31'
+roadmap: ''
+softwareType: proces
+softwareVersion: '1.0'
+url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Nijmegen/EvenementenvergunningGroot
+usedBy: ["https://www.nijmegen.nl"]
+downloads: ["Evenementenvergunning-groot_aanvragen_Nijmegen.pdf"]
