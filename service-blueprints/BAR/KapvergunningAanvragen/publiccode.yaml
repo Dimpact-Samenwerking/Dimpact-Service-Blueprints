@@ -34,7 +34,9 @@ maintenance:
 name: Kapvergunning Aanvragen
 nl:
   vng:
-    commonground: []
+    commonground:
+      layerType: process
+      installationType: self
     gemma:
       domein: ["Fysieke leefomgeving"]
   upl: ["Omgevingsvergunning kap"]
@@ -54,4 +56,5 @@ softwareType: proces
 softwareVersion: '1.0'
 url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/BAR/KapvergunningAanvragen
 usedBy: ["https://www.barendrecht.nl","https://www.albrandswaard.nl","https://www.ridderkerk.nl"]
-downloads: ["Kapvergunning_aanvragen_BAR-organisatie.pdf"]
+downloads:
+  - "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/BAR/KapvergunningAanvragen/Kapvergunning_aanvragen_BAR-organisatie.pdf"

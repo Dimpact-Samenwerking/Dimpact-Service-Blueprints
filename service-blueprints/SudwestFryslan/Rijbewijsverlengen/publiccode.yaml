@@ -34,7 +34,9 @@ maintenance:
 name: Rijbewijs verlengen
 nl:
   vng:
-    commonground: []
+    commonground:
+      layerType: process
+      installationType: self
     gemma:
       domein: ["Publieksdiensten"]
   upl: ["Rijbewijs verlengen"]
