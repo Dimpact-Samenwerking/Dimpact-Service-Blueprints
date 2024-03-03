@@ -13,6 +13,7 @@ description:
     shortDescription: ''
     videos: []
 developmentStatus: stable
+logo: "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/logo_dimpact.svg"
 landingURL: ''
 legal:
   authorsFile: ''
