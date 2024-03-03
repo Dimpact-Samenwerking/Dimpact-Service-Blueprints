@@ -1,5 +1,6 @@
 categories:
 - it-development
+name: Aanvraag Levensonderhoud
 description:
   nl:
     apiDocumentation: ''
@@ -8,9 +9,9 @@ description:
     features: []
     genericName: Repository voor het beheren van Dimpact Service Blueprints
     localisedName: ''
-    longDescription: ''
+    longDescription: 'Aanvraag Levensonderhoud lang'
     screenshots: []
-    shortDescription: ''
+    shortDescription: 'Aanvraag Levensonderhoud kort'
     videos: []
 developmentStatus: stable
 logo: "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/logo_dimpact.svg"
@@ -32,7 +33,6 @@ maintenance:
     affiliation: ''
   contractors: []
   type: internal
-name: Aanvraag Levensonderhoud
 nl:
   vng:
     commonground:

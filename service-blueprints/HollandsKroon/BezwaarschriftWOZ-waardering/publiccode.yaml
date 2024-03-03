@@ -1,5 +1,6 @@
 categories:
 - it-development
+name: Bezwaarschrift WOZ-waardering indienen
 description:
   nl:
     apiDocumentation: ''
@@ -8,9 +9,9 @@ description:
     features: []
     genericName: Repository voor het beheren van Dimpact Service Blueprints
     localisedName: ''
-    longDescription: ''
+    longDescription: 'Bezwaarschrift WOZ-waardering indienenlang '
     screenshots: []
-    shortDescription: ''
+    shortDescription: 'Bezwaarschrift WOZ-waardering indienen kort'
     videos: []
 developmentStatus: stable
 logo: "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/logo_dimpact.svg"
@@ -32,7 +33,6 @@ maintenance:
     affiliation: ''
   contractors: []
   type: internal
-name: Bezwaarschrift WOZ-waardering indienen
 nl:
   vng:
     commonground:

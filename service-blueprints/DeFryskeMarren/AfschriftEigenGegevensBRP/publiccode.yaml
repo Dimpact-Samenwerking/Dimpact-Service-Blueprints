@@ -1,5 +1,6 @@
 categories:
 - it-development
+name: Afschrift Eigen gegevens BRP aanvragen
 description:
   nl:
     apiDocumentation: ''
@@ -8,9 +9,9 @@ description:
     features: []
     genericName: Repository voor het beheren van Dimpact Service Blueprints
     localisedName: ''
-    longDescription: ''
+    longDescription: 'Afschrift Eigen gegevens BRP aanvragen lang'
     screenshots: []
-    shortDescription: ''
+    shortDescription: 'Afschrift Eigen gegevens BRP aanvragen kort'
     videos: []
 developmentStatus: stable
 landingURL: ''
@@ -31,7 +32,6 @@ maintenance:
     affiliation: ''
   contractors: []
   type: internal
-name: Afschrift Eigen gegevens BRP aanvragen
 nl:
   vng:
     commonground:
@@ -56,4 +56,5 @@ softwareType: proces
 softwareVersion: '1.0'
 url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/FryskeMarren/AfschriftEigenGegevensBRP
 usedBy: ["https://www.defryskemarren.nl/"]
-downloads: ["Afschrift_Eigen_Gegevens_BRP_FryskeMarren.pdf"]
+downloads:
+  - "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/DeFryskeMarren/AfschriftEigenGegevensBRP/Afschrift_Eigen_Gegevens_BRP_FryskeMarren.pdf"

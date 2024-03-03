@@ -1,5 +1,6 @@
 categories:
 - it-development
+name: Klantinteractie-KCC
 description:
   nl:
     apiDocumentation: ''
@@ -32,7 +33,6 @@ maintenance:
     affiliation: ''
   contractors: []
   type: internal
-name: Klantinteractie-KCC
 nl:
   vng:
     commonground:

@@ -1,5 +1,6 @@
 categories:
 - it-development
+name: Rijbewijs verlengen
 description:
   nl:
     apiDocumentation: ''
@@ -8,9 +9,9 @@ description:
     features: []
     genericName: Repository voor het beheren van Dimpact Service Blueprints
     localisedName: ''
-    longDescription: ''
+    longDescription: 'Rijbewijs verlengen lang'
     screenshots: []
-    shortDescription: ''
+    shortDescription: 'Rijbewijs verlengen kort'
     videos: []
 developmentStatus: stable
 logo: "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/logo_dimpact.svg"
@@ -32,7 +33,6 @@ maintenance:
     affiliation: ''
   contractors: []
   type: internal
-name: Rijbewijs verlengen
 nl:
   vng:
     commonground:

@@ -1,5 +1,6 @@
 categories:
 - it-development
+name: Kapvergunning Aanvragen
 description:
   nl:
     apiDocumentation: ''
@@ -8,9 +9,9 @@ description:
     features: []
     genericName: Repository voor het beheren van Dimpact Service Blueprints
     localisedName: ''
-    longDescription: ''
+    longDescription: 'Kapvergunning Aanvragen lang'
     screenshots: []
-    shortDescription: ''
+    shortDescription: 'Kapvergunning Aanvragen kort'
     videos: []
 developmentStatus: stable
 logo: "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/logo_dimpact.svg"
@@ -32,7 +33,6 @@ maintenance:
     affiliation: ''
   contractors: []
   type: internal
-name: Kapvergunning Aanvragen
 nl:
   vng:
     commonground:
