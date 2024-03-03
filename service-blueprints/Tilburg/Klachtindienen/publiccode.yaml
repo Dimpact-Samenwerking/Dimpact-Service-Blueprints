@@ -56,4 +56,5 @@ softwareType: proces
 softwareVersion: '1.0'
 url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Tilburg/Klachtindienen
 usedBy: ["https://www.tilburg.nl"]
-downloads: ["Klacht_indienen_Tilburg.pdf"]
+downloads:
+  - "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Tilburg/Klachtindienen/Klacht_indienen_Tilburg.pdf"

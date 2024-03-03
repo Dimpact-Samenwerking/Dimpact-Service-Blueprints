@@ -56,4 +56,5 @@ softwareType: proces
 softwareVersion: '1.0'
 url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Gouda/MeldingVraagOmHulp
 usedBy: ["https://www.gouda.nl"]
-downloads: ["Melding_vraag_om_hulp_Gouda.pdf"]
+downloads:
+  - "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Gouda/MeldingVraagOmHulp/Melding_vraag_om_hulp_Gouda.pdf"

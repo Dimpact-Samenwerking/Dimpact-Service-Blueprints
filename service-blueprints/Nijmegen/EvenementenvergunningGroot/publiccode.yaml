@@ -56,4 +56,5 @@ softwareType: proces
 softwareVersion: '1.0'
 url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Nijmegen/EvenementenvergunningGroot
 usedBy: ["https://www.nijmegen.nl"]
-downloads: ["Evenementenvergunning-groot_aanvragen_Nijmegen.pdf"]
+downloads:
+  - "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Nijmegen/EvenementenvergunningGroot/Evenementenvergunning-groot_aanvragen_Nijmegen.pdf"

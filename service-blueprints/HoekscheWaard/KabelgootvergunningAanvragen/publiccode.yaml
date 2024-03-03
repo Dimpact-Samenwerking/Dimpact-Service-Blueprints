@@ -56,4 +56,5 @@ softwareType: proces
 softwareVersion: '1.0'
 url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/HoekscheWaard/KabelgootvergunningAanvragen
 usedBy: ["https://www.gemeentehw.nl/"]
-downloads: ["Kabelgootvergunning_aanvragen_HoekscheWaard.pdf"]
+downloads:
+  - "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/HoekscheWaard/KabelgootvergunningAanvragen/Kabelgootvergunning_aanvragen_Hoekschewaard.pdf"
