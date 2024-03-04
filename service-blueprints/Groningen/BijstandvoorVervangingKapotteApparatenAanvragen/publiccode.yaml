@@ -1,6 +1,6 @@
 categories:
 - it-development
-name: Klantinteractie-KCC
+name: Bijstand voor vervanging kapotte apparaten aanvragen
 description:
   nl:
     apiDocumentation: ''
@@ -9,9 +9,9 @@ description:
     features: []
     genericName: Repository voor het beheren van Dimpact Service Blueprints
     localisedName: ''
-    longDescription: ''
+    longDescription: 'De gemeente Groningen gebruikte de service blueprint o.a. om binnen dit dienstverleningsproces te kijken naar optimalisatiemogelijkheden. Daarnaast is het de bedoeling om aanvragers van deze witgoedregeling via Mijn Groningen op de hoogte te houden (track & trace) en van statusupdates te voorzien. Een koppeling tussen het gemeentelijke zaaksysteem en de mijn omgeving moet hiervoor zorgdragen.'
     screenshots: []
-    shortDescription: ''
+    shortDescription: 'Bijstand voor vervanging kapotte apparaten aanvragen kort'
     videos: []
 developmentStatus: stable
 logo: "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/logo_dimpact.svg"
@@ -40,21 +40,22 @@ nl:
       installationType: self
     gemma:
       domein: ["Sociaal"]
-  upl: []
+  upl: ["bijzonderebijstandsuitkering"]
   thema: []
   onderwerp: []
   aanleiding: 'MijnZaken services'
 organisation:
   logo: ''
-  name: 'Gemeente Gouda'
-  url: 'https://www.gouda.nl/'
+  name: 'Gemeente Groningen'
+  url: 'https://www.groningen.nl/'
 platforms:
 - web
 publiccodeYmlVersion: '0.2'
-releaseDate: '2023-01-31'
+releaseDate: '2023-11-01'
 roadmap: ''
 softwareType: proces
 softwareVersion: '1.0'
-url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Gouda/MeldingVraagOmHulp
-usedBy: ["https://www.gouda.nl"]
-downloads: ["Persona's_klantinteractie_Thijs.pdf"]
+url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Groningen/BijstandvoorVervangingKapotteApparatenAanvragen
+usedBy: ["https://www.groningen.nl"]
+downloads:
+  - https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Groningen/BijstandvoorVervangingKapotteApparatenAanvragen/Bijstand_voor_vervanging_kapotte_apparaten_aanvragen_Groningen.pdf
