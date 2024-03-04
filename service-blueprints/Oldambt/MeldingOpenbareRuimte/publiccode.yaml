@@ -58,4 +58,5 @@ softwareVersion: '1.0'
 url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Oldambt/MeldingOpenbareRuimte
 usedBy: ["https://www.oldambt.nl"]
 downloads:
-  - 
+  - https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Oldambt/MeldingOpenbareRuimte/Melding_openbare_%20ruimte_%20Case_%20Harry_Oldambt.pdf
+  - https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Oldambt/MeldingOpenbareRuimte/Melding_openbare_ruimte_%20Case_Yolanda_%20Oldambt.pdf
