@@ -1,6 +1,6 @@
 categories:
 - it-development
-name: Klantinteractie-KCC
+name: Klantinteractie-KCC Case Aangifte verhuizing
 description:
   nl:
     apiDocumentation: ''
@@ -39,22 +39,23 @@ nl:
       layerType: process
       installationType: self
     gemma:
-      domein: ["Sociaal"]
-  upl: []
+      domein: ["Publieksdiensten"]
+  upl: ["verhuismelding"]
   thema: []
   onderwerp: []
-  aanleiding: 'MijnZaken services'
+  aanleiding: 'Klantinteractie-KCC'
 organisation:
   logo: ''
-  name: 'Gemeente Gouda'
-  url: 'https://www.gouda.nl/'
+  name: 'Dimpact'
+  url: 'https://www.dimpact.nl/'
 platforms:
 - web
 publiccodeYmlVersion: '0.2'
-releaseDate: '2023-01-31'
+releaseDate: '2019-07-01'
 roadmap: ''
 softwareType: proces
 softwareVersion: '1.0'
-url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Gouda/MeldingVraagOmHulp
-usedBy: ["https://www.gouda.nl"]
-downloads: ["Persona's_klantinteractie_Thijs.pdf"]
+url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Dimpact/Klantinteractie-KCC/Case-Aangifte_verhuizing
+usedBy: ["https://www.dimpact.nl"]
+downloads: 
+- https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/BAR/KapvergunningAanvragen/Kapvergunning_aanvragen_BAR-organisatie.pdf
