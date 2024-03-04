@@ -27,9 +27,9 @@ localisation:
   localisationReady: false
 maintenance:
   contacts: 
-    name: ''
-    email: ''
-    phone: ''
+    name: 'Dimpact'
+    email: 'info@dimpact.nl'
+    phone: '0883460000'
     affiliation: ''
   contractors: []
   type: internal
