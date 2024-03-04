@@ -1,0 +1,60 @@
+categories:
+- it-development
+name: Klantinteractie-KCC
+description:
+  nl:
+    apiDocumentation: ''
+    awards: []
+    documentation: ''
+    features: []
+    genericName: Repository voor het beheren van Dimpact Service Blueprints
+    localisedName: ''
+    longDescription: ''
+    screenshots: []
+    shortDescription: ''
+    videos: []
+developmentStatus: stable
+logo: "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/logo_dimpact.svg"
+landingURL: ''
+legal:
+  authorsFile: ''
+  license: ''
+  mainCopyrightOwner: ''
+  repoOwner: 'https://www.dimpact.nl/'
+localisation:
+  availableLanguages:
+  - nl
+  localisationReady: false
+maintenance:
+  contacts: 
+    name: ''
+    email: ''
+    phone: ''
+    affiliation: ''
+  contractors: []
+  type: internal
+nl:
+  vng:
+    commonground:
+      layerType: process
+      installationType: self
+    gemma:
+      domein: ["Sociaal"]
+  upl: []
+  thema: []
+  onderwerp: []
+  aanleiding: 'MijnZaken services'
+organisation:
+  logo: ''
+  name: 'Gemeente Gouda'
+  url: 'https://www.gouda.nl/'
+platforms:
+- web
+publiccodeYmlVersion: '0.2'
+releaseDate: '2023-01-31'
+roadmap: ''
+softwareType: proces
+softwareVersion: '1.0'
+url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Gouda/MeldingVraagOmHulp
+usedBy: ["https://www.gouda.nl"]
+downloads: ["Persona's_klantinteractie_Thijs.pdf"]
