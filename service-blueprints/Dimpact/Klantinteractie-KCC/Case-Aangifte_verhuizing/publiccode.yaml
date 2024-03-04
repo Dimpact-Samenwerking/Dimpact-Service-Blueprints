@@ -58,4 +58,6 @@ softwareVersion: '1.0'
 url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Dimpact/Klantinteractie-KCC/Case-Aangifte_verhuizing
 usedBy: ["https://www.dimpact.nl"]
 downloads: 
-- https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/BAR/KapvergunningAanvragen/Kapvergunning_aanvragen_BAR-organisatie.pdf
+  - https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Dimpact/Klantinteractie-KCC/Case-Aangifte_verhuizing/Klantinteractie_ServiceBlueprint_Thijs_%20Aangifte_verhuizing.pdf
+  - https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Dimpact/Klantinteractie-KCC/Case-Aangifte_verhuizing/Persona's_klantinteractie_Thijs.pdf
+  - https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Dimpact/Klantinteractie-KCC/Case-Aangifte_verhuizing/Toelichting_Klantinteractie_ServiceBlueprint_Thijs_%20Aangifte_verhuizing.pdf
