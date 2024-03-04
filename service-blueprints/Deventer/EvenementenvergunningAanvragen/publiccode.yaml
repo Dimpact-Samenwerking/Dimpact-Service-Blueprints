@@ -1,6 +1,7 @@
 categories:
 - it-development
 name: Evenementenvergunning aanvragen
+description:
   nl:
     apiDocumentation: ''
     awards: []
@@ -56,4 +57,5 @@ softwareType: proces
 softwareVersion: '1.0'
 url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Deventer/EvenementenvergunningAanvragen
 usedBy: ["https://www.deventer.nl"]
-downloads: ["Persona's_klantinteractie_Thijs.pdf"]
+downloads:
+  - https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Deventer/EvenementenvergunningAanvragen/Evenementenvergunning_aanvragen_Deventer.pdf
