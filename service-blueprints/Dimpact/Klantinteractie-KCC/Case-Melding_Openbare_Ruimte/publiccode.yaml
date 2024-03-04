@@ -1,6 +1,6 @@
 categories:
 - it-development
-name: Klantinteractie-KCC
+name: Klantinteractie-KCC Case Melding openbare ruimte
 description:
   nl:
     apiDocumentation: ''
@@ -9,9 +9,9 @@ description:
     features: []
     genericName: Repository voor het beheren van Dimpact Service Blueprints
     localisedName: ''
-    longDescription: ''
+    longDescription: 'Optimalisatie klantinteractie - Traject KISS (KlantInteractieServiceSysteem). Dit traject werd geïnitieerd met het oog op optimalisatie van de klantinteractie, met de focus op betere (digitale) ondersteuning van front-office medewerkers bij de dienstverlening aan inwoners/ondernemers. Hiertoe werden enkele - zeer diverse – processen geselecteerd die zijn uitgewerkt in service blueprints. Op basis hiervan konden de verschillende eisen en wensen m.b.t. een klantinteractiesysteem worden gedestilleerd. Deze set aan functionaliteiten werd vervolgens vertaald naar een eerste concept prototype van het te realiseren ideale klantinteractiesysteem. In deze service blueprint spelen twee persona’s een rol: inwoner Johan en KCC-medewerker Karin. Johan meldt een gat in de weg. Twee weken later is de situatie nog onveranderd: Johan neemt opnieuw contact op. KCC-medewerker Karin pakt het op en helpt Johan verder.'
     screenshots: []
-    shortDescription: ''
+    shortDescription: 'Klantinteractie-KCC Case Melding openbare ruimte kort'
     videos: []
 developmentStatus: stable
 logo: "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/logo_dimpact.svg"
@@ -27,9 +27,9 @@ localisation:
   localisationReady: false
 maintenance:
   contacts: 
-    name: ''
-    email: ''
-    phone: ''
+    name: 'Dimpact'
+    email: 'info@dimpact.nl'
+    phone: '0883460000'
     affiliation: ''
   contractors: []
   type: internal
@@ -39,22 +39,25 @@ nl:
       layerType: process
       installationType: self
     gemma:
-      domein: ["Sociaal"]
-  upl: []
+      domein: ["Fysieke leefomgeving"]
+  upl: ["melding openbare ruimte (algemeen)","melding openbare ruimte (groenvoorziening)","melding openbare ruimte (straatmeubilair)","melding openbare ruimte (straatverlichting)"]
   thema: []
   onderwerp: []
-  aanleiding: 'MijnZaken services'
+  aanleiding: 'Klantinteractie-KCC'
 organisation:
   logo: ''
-  name: 'Gemeente Gouda'
-  url: 'https://www.gouda.nl/'
+  name: 'Dimpact'
+  url: 'https://www.dimpact.nl/'
 platforms:
 - web
 publiccodeYmlVersion: '0.2'
-releaseDate: '2023-01-31'
+releaseDate: '2019-07-01'
 roadmap: ''
 softwareType: proces
 softwareVersion: '1.0'
-url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Gouda/MeldingVraagOmHulp
-usedBy: ["https://www.gouda.nl"]
-downloads: ["Persona's_klantinteractie_Thijs.pdf"]
+url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Dimpact/Klantinteractie-KCC/Case-Melding_Openbare_Ruimte
+usedBy: ["https://www.dimpact.nl"]
+downloads:
+  - https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Dimpact/Klantinteractie-KCC/Case-Melding_Openbare_Ruimte/Klantinteractie_ServiceBlueprint_Johan_%20Melding_Openbare_Ruimte.pdf
+  - https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Dimpact/Klantinteractie-KCC/Case-Melding_Openbare_Ruimte/Persona's_klantinteractie_Johan.pdf
+  - https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Dimpact/Klantinteractie-KCC/Case-Melding_Openbare_Ruimte/Toelichting_Klantinteractie_ServiceBlueprint_Johan_%20Melding_Openbare_Ruimte.pdf
