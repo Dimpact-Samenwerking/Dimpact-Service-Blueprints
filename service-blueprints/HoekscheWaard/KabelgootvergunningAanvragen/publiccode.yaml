@@ -53,7 +53,7 @@ platforms:
 publiccodeYmlVersion: '0.2'
 releaseDate: '2023-01-31'
 roadmap: ''
-softwareType: proces
+softwareType: process
 softwareVersion: '1.0'
 url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/HoekscheWaard/KabelgootvergunningAanvragen
 usedBy: ["https://www.gemeentehw.nl/"]

@@ -36,7 +36,7 @@ maintenance:
 nl:
   vng:
     commonground:
-      layerType: process
+      layerType: processs
       installationType: self
     gemma:
       domein: ["Fysieke leefomgeving"]
