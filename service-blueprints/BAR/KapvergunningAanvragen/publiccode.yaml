@@ -57,5 +57,5 @@ softwareType: process
 softwareVersion: '1.0'
 url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/BAR/KapvergunningAanvragen
 usedBy: ["https://www.barendrecht.nl","https://www.albrandswaard.nl","https://www.ridderkerk.nl"]
-downloads:
+downloadUrls:
   - "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/BAR/KapvergunningAanvragen/Kapvergunning_aanvragen_BAR-organisatie.pdf"

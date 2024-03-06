@@ -57,5 +57,5 @@ softwareType: process
 softwareVersion: '1.0'
 url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/HollandsKroon/BezwaarschriftWOZ-waardering
 usedBy: ["https://www.hollandskroon.nl/"]
-downloads:
+downloadUrls:
   - "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Hollandskroon/BezwaarschriftWOZ-waardering/Bezwaarschrift_WOZ-waardering_HollandsKroon.pdf"

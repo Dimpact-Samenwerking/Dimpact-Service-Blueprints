@@ -56,5 +56,5 @@ softwareType: process
 softwareVersion: '1.0'
 url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/FryskeMarren/AfschriftEigenGegevensBRP
 usedBy: ["https://www.defryskemarren.nl/"]
-downloads:
+downloadUrls:
   - "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/DeFryskeMarren/AfschriftEigenGegevensBRP/Afschrift_Eigen_Gegevens_BRP_FryskeMarren.pdf"
