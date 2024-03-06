@@ -1,6 +1,6 @@
 categories:
 - it-development
-name: Klantinteractie-KCC
+name: Bijzondere bijstand aanvragen
 description:
   nl:
     apiDocumentation: ''
@@ -9,9 +9,9 @@ description:
     features: []
     genericName: Repository voor het beheren van Dimpact Service Blueprints
     localisedName: ''
-    longDescription: ''
+    longDescription: 'Wens van de gemeente Zwolle is om aanvragers van deze bijzondere bijstandsregeling (witgoedregeling) via Mijn Zwolle op de hoogte te houden (track & trace) en van statusupdates te voorzien. Een koppeling tussen het gemeentelijke zaaksysteem en de mijn omgeving moet hiervoor zorgdragen.'
     screenshots: []
-    shortDescription: ''
+    shortDescription: 'Bijzondere bijstand aanvragen kort'
     videos: []
 developmentStatus: stable
 logo: "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/logo_dimpact.svg"
@@ -40,21 +40,22 @@ nl:
       installationType: self
     gemma:
       domein: ["Sociaal"]
-  upl: []
+  upl: ["bijzonderebijstandsuitkering"]
   thema: []
   onderwerp: []
   aanleiding: 'MijnZaken services'
 organisation:
   logo: ''
-  name: 'Gemeente Gouda'
-  url: 'https://www.gouda.nl/'
+  name: 'Gemeente Zwolle'
+  url: 'https://www.zwolle.nl/'
 platforms:
 - web
 publiccodeYmlVersion: '0.2'
-releaseDate: '2023-01-31'
+releaseDate: '2023-11-01'
 roadmap: ''
 softwareType: process
 softwareVersion: '1.0'
-url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Gouda/MeldingVraagOmHulp
-usedBy: ["https://www.gouda.nl"]
-downloads: ["Persona's_klantinteractie_Thijs.pdf"]
+url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Zwolle/BijzondereBijstandAanvragen
+usedBy: ["https://www.zwolle.nl"]
+downloads:
+  - https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Zwolle/BijzondereBijstandAanvragen/Bijzondere_bijstand_aanvragen_Zwolle.pdf

@@ -1,0 +1,62 @@
+categories:
+- it-development
+name: Melding openbare ruimte
+description:
+  nl:
+    apiDocumentation: ''
+    awards: []
+    documentation: ''
+    features: []
+    genericName: Repository voor het beheren van Dimpact Service Blueprints
+    localisedName: ''
+    longDescription: 'De aanleiding voor gemeente Oldambt om voor dit proces twee service blueprints op te stellen is de naderende implementatie van het Dimpact podiumD-product ‘Signalen’. Dit product vervangt een deel van de functionaliteit van de Esuite. De service blueprint geeft weer hoe het product een rol heeft in klantprocessen. Hierbij is aandacht geweest voor de digivaardige en niet-digivaardige inwoner van gemeente Oldambt. De service blueprint biedt inzicht hoe knelpunten in het proces van het doen en afhandelen van een maaimelding opgelost kunnen worden én hoe ingespeeld kan worden op de succesfactoren voor de inwoners. Het heeft de organisatie geleerd hoe ze vanuit verschillende disciplines verbeteringen kunnen doorvoeren t.b.v. de inwoner. Daarnaast illustreert de service blueprint een concrete casus waarin de rol en functionaliteit van het product ‘signalen’ naar voren komt.'
+    screenshots: []
+    shortDescription: 'Melding openbare ruimte kort'
+    videos: []
+developmentStatus: stable
+logo: "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/logo_dimpact.svg"
+landingURL: ''
+legal:
+  authorsFile: ''
+  license: ''
+  mainCopyrightOwner: ''
+  repoOwner: 'https://www.dimpact.nl/'
+localisation:
+  availableLanguages:
+  - nl
+  localisationReady: false
+maintenance:
+  contacts: 
+    name: ''
+    email: ''
+    phone: ''
+    affiliation: ''
+  contractors: []
+  type: internal
+nl:
+  vng:
+    commonground:
+      layerType: process
+      installationType: self
+    gemma:
+      domein: ["Fysieke leefomgeving"]
+  upl: ["Melding openbare ruimte (groenvoorziening"]
+  thema: []
+  onderwerp: []
+  aanleiding: 'Vervanging systeem'
+organisation:
+  logo: ''
+  name: 'Gemeente Oldambt'
+  url: 'https://www.oldambt.nl/'
+platforms:
+- web
+publiccodeYmlVersion: '0.2'
+releaseDate: '2023-11-01
+roadmap: ''
+softwareType: proces
+softwareVersion: '1.0'
+url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Oldambt/MeldingOpenbareRuimte
+usedBy: ["https://www.oldambt.nl"]
+downloads:
+  - https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Oldambt/MeldingOpenbareRuimte/Melding_openbare_%20ruimte_%20Case_%20Harry_Oldambt.pdf
+  - https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Oldambt/MeldingOpenbareRuimte/Melding_openbare_ruimte_%20Case_Yolanda_%20Oldambt.pdf

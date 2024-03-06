@@ -1,0 +1,61 @@
+categories:
+- it-development
+name: Evenementenvergunning aanvragen
+description:
+  nl:
+    apiDocumentation: ''
+    awards: []
+    documentation: ''
+    features: []
+    genericName: Repository voor het beheren van Dimpact Service Blueprints
+    localisedName: ''
+    longDescription: 'De aanleiding voor gemeente Deventer om voor dit proces een Service Blueprint op te stellen is een interne analyse geweest waaruit naar voren kwam dat er verbeteringen mogelijk waren. Deze verbeteringen zijn in een Service Blueprint verwerkt, waardoor een nieuw ideaal proces is ontstaan. Tevens is aangestipt wat ervoor nodig is om dit op technisch, informatie en juridisch vlak te realiseren. De Service Blueprint is nu de basis waarop het proces in de Mijn Zaken omgeving van de gemeente stapsgewijs zal worden geïmplementeerd.'
+    screenshots: []
+    shortDescription: 'Evenementenvergunning aanvragen kort'
+    videos: []
+developmentStatus: stable
+logo: "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/logo_dimpact.svg"
+landingURL: ''
+legal:
+  authorsFile: ''
+  license: ''
+  mainCopyrightOwner: ''
+  repoOwner: 'https://www.dimpact.nl/'
+localisation:
+  availableLanguages:
+  - nl
+  localisationReady: false
+maintenance:
+  contacts: 
+    name: ''
+    email: ''
+    phone: ''
+    affiliation: ''
+  contractors: []
+  type: internal
+nl:
+  vng:
+    commonground:
+      layerType: process
+      installationType: self
+    gemma:
+      domein: ["Fysieke leefomgeving"]
+  upl: ["evenementenvergunning"]
+  thema: []
+  onderwerp: []
+  aanleiding: 'MijnZaken services'
+organisation:
+  logo: ''
+  name: 'Gemeente Deventer'
+  url: 'https://www.deventer.nl/'
+platforms:
+- web
+publiccodeYmlVersion: '0.2'
+releaseDate: '20243-01-15'
+roadmap: ''
+softwareType: proces
+softwareVersion: '1.0'
+url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Deventer/EvenementenvergunningAanvragen
+usedBy: ["https://www.deventer.nl"]
+downloads:
+  - https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Deventer/EvenementenvergunningAanvragen/Evenementenvergunning_aanvragen_Deventer.pdf

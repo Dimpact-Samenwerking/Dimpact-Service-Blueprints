@@ -9,7 +9,7 @@ description:
     features: []
     genericName: Repository voor het beheren van Dimpact Service Blueprints
     localisedName: ''
-    longDescription: 'Klacht indienen lang'
+    longDescription: 'De gemeente Tilburg wilde het proces ‘klacht indienen’ meer vanuit inwonersperspectief insteken. O.a. om mensen zelf inzage te geven in de status van hun klacht en de afhandeltermijn. Op deze manier kan het aantal ‘onnodige contacten’ (“Hoe staat het met mijn…?”) worden verminderd. Verder was de Service Blueprint belangrijk bij het maken van een prototype en het briefen van de architecten en de technische partij.'
     screenshots: []
     shortDescription: 'Klacht indienen kort '
     videos: []

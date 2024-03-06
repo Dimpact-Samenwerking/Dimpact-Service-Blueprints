@@ -1,0 +1,63 @@
+categories:
+- it-development
+name: Klantinteractie-KCC Case-Financiële hulp nodig
+description:
+  nl:
+    apiDocumentation: ''
+    awards: []
+    documentation: ''
+    features: []
+    genericName: Repository voor het beheren van Dimpact Service Blueprints
+    localisedName: ''
+    longDescription: 'Dimpact-Optimalisatie klantinteractie, traject KISS KlantInteractieServiceSysteem. Dit traject werd geïnitieerd met het oog op optimalisatie van de klantinteractie, met de focus op betere (digitale) ondersteuning van front-office medewerkers bij de dienstverlening aan inwoners/ondernemers. Hiertoe werden enkele, diverse processen geselecteerd die zijn uitgewerkt in service blueprints. Op basis hiervan konden de verschillende eisen en wensen m.b.t. een klantinteractiesysteem worden gedestilleerd. Deze set aan functionaliteiten werd vervolgens vertaald naar een eerste concept prototype van het te realiseren ideale klantinteractiesysteem. In deze service blueprint spelen twee persona’s een rol: inwoner Desiree en KCC-medewerker Karin. Desiree belt met de gemeente: ze heeft dringend behoefte aan financiële hulp. KCC-medewerker Karin helpt haar verder: ze regelt een afspraak met een collega die Desiree verder kan helpen en zorgt voor de gewenste voorbereidingen.'
+    screenshots: []
+    shortDescription: 'Klantinteractie-KCC Case-Financiële hulp nodig kort'
+    videos: []
+developmentStatus: stable
+logo: "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/logo_dimpact.svg"
+landingURL: ''
+legal:
+  authorsFile: ''
+  license: ''
+  mainCopyrightOwner: ''
+  repoOwner: 'https://www.dimpact.nl/'
+localisation:
+  availableLanguages:
+  - nl
+  localisationReady: false
+maintenance:
+  contacts: 
+    name: 'Dimpact'
+    email: 'info@dimpact.nl'
+    phone: '0883460000'
+    affiliation: ''
+  contractors: []
+  type: internal
+nl:
+  vng:
+    commonground:
+      layerType: process
+      installationType: self
+    gemma:
+      domein: ["Sociaal"]
+  upl: []
+  thema: []
+  onderwerp: []
+  aanleiding: 'Klantinteractie-KCC'
+organisation:
+  logo: ''
+  name: 'Dimpact'
+  url: 'https://www.dimpact.nl/'
+platforms:
+- web
+publiccodeYmlVersion: '0.2'
+releaseDate: '2019-07-01'
+roadmap: ''
+softwareType: proces
+softwareVersion: '1.0'
+url: https://github.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/tree/feature-oc/service-blueprints/Dimpact/Klantinteractie-KCC/Case-Financi%C3%ABle_hulp_nodig
+usedBy: ["https://www.dimpact.nl"]
+downloads: 
+  - https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Dimpact/Klantinteractie-KCC/Case-Financi%C3%ABle_hulp_nodig/Klantinteractie_ServiceBlueprint_Desiree_Financie%CC%88le_hulp_nodig.pdf
+  - https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Dimpact/Klantinteractie-KCC/Case-Financi%C3%ABle_hulp_nodig/Persona's_klantinteractie_Desiree.pdf
+  - https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/service-blueprints/Dimpact/Klantinteractie-KCC/Case-Financi%C3%ABle_hulp_nodig/Toelichting_Klantinteractie_ServiceBlueprint_Desiree_Financie%CC%88le_hulp_nodig.pdf
